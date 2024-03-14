@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/matomo-org/travis-scripts/blob/master/fonts/Arial.ttf
+HostUrl=https://raw.githubusercontent.com/matomo-org/travis-scripts/master/fonts/Arial.ttf
